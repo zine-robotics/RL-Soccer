@@ -1,2 +1,2 @@
-# RL-Soccer
+# marl-soccer
 MARL based robo soccer
